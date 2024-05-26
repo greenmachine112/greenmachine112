@@ -5,8 +5,8 @@
 - 📫 How to reach me: [jake0118green@gmail.com](mailto:jake0118green@gmail.com)
 - ⚡ Hill I will die on: Oranges are an inferior fruit compared to every other fruit
 <a href="https://github.com/greenmachine112/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greenmachine112&theme=shadow_red&show_icons=true&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greenmachine112&theme=shadow_red&card_width=300&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenmachine112&layout=normal&theme=shadow_red&card_width=500&hide=html" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greenmachine112&layout=normal&card_width=300&theme=shadow_red&hide=html" />
 </a>
