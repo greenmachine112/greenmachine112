@@ -6,4 +6,4 @@
 - ⚡ Hill I will die on: Oranges are an inferior fruit compared to every other fruit
 
 ![Jake's GitHub stats](https://github-readme-stats.vercel.app/api?username=greenmachine112&theme=shadow_red&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenmachine112&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=greenmachine112&layout=donut-vertical&theme=shadow_red)](https://github.com/greenmachine112/github-readme-stats)
