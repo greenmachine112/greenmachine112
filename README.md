@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python and how to integrate RESTful APIs
 - 📫 How to reach me: [jake0118green@gmail.com](mailto:jake0118green@gmail.com)
 - ⚡ Hill I will die on: Oranges are an inferior fruit compared to every other fruit
-<a href="https://github.com/greenmachine112/github-readme-stats">
+<a href="https://github.com/greenmachine112">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greenmachine112&theme=shadow_red&card_width=300&show_icons=true" />
 </a>
 <a href="https://github.com/greenmachine112">
